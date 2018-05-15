@@ -1,0 +1,24 @@
+{
+  "name": "genres-rest-api-extended",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuneAlSi/genres-rest-api-extended.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuneAlSi/genres-rest-api-extended/issues"
+  },
+  "homepage": "https://github.com/JuneAlSi/genres-rest-api-extended#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "joi": "^13.3.0"
+  }
+}
